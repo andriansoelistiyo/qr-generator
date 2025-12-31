@@ -3,4 +3,4 @@ User-agent: *
 Allow: /
 
 # Sitemap
-Sitemap: https://qr-generator.netlify.app/sitemap.xml
+Sitemap: https://qr-generator-projects.netlify.app/sitemap.xml
