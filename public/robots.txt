@@ -1,0 +1,6 @@
+# robots.txt for QR Code Generator
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://qr-generator.netlify.app/sitemap.xml
